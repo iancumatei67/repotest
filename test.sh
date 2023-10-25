@@ -1,4 +1,7 @@
 #!/bin/bash
-
-echo "Salut"
+#
+#
+#
+ORA=$(date)
+echo "$ORA"
 
